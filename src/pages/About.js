@@ -14,7 +14,7 @@ function About() {
         style={{ textAlign: "center", background: "#ccc" }}
       >
         <h2>직무능력(Skills)</h2>
-        <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,git&perline=3" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,git,github,vootstrap,sqlite&perline=3" />
         <hr></hr>
         <img src="https://skillicons.dev/icons?i=photoshop,figma&theme=light" />
         {/* 띄어쓰기 하면 아이콘 적용이 안됨  */}
